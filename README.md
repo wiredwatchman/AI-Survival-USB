@@ -2,7 +2,7 @@
 
 **From [The Wired Watchman](https://thewiredwatchman.com).** Free. No subscription. No account.
 
-> **Watch the episode first:** [INSERT YOUTUBE LINK] ("Free Survival USB: Build Your Own Offline AI for Prep")
+> **Watch the episode first:** https://youtu.be/hiqTf9G573w?si=F2rPj4tlMrknq_L0 ("Free Survival USB: Build Your Own Offline AI for Prep")
 
 This guide shows you how to put a local AI assistant on a USB drive. Once it's set up, you can ask it questions with no internet connection. You build it yourself, one step at a time.
 
