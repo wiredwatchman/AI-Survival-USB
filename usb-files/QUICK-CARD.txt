@@ -1,0 +1,25 @@
+AI SURVIVAL USB: QUICK CARD (print this and keep it with the drive)
+
+START
+  1. Plug in the USB drive.
+  2. Double-click start.bat. Wait about 30 seconds.
+  3. When it says READY, type your question and press Enter.
+  4. Type /bye to leave the chat.
+
+STOP
+  1. Double-click stop.bat.
+  2. Wait for the "safe to eject" message.
+  3. Eject the drive from File Explorer.
+
+IF SOMETHING GOES WRONG
+  - "ollama.exe is not on this drive": copy ollama.exe and the lib folder
+    from %LOCALAPPDATA%\Programs\Ollama. See START-HERE.txt.
+  - "The model folder is missing": copy everything from
+    %USERPROFILE%\.ollama\models into ollama\models on the drive.
+  - Very slow: copy the whole USB folder to C:\AI-Survival and run start.bat there.
+  - Not enough memory: close other programs.
+  - Antivirus warning: Ollama only listens on this computer (port 11434).
+
+ALWAYS CHECK IMPORTANT ANSWERS against a printed or official source.
+The AI can be wrong.
+In an emergency, call 911.

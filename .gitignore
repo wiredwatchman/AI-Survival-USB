@@ -1,0 +1,18 @@
+# Model files and program binaries are too large for GitHub.
+# Keep them on your USB drive, not in this repository.
+ollama/
+ollama.exe
+lib/
+usb-files/ollama/
+usb-files/ollama.exe
+usb-files/lib/
+*.gguf
+*.bin
+*.zst
+*.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,29 @@
+START HERE: read this before you use the drive
+
+Your USB drive needs these items copied onto it. The GitHub guide (README.md) shows each step.
+
+FROM YOUR WINDOWS PC
+  1. ollama.exe   -> copy from:  %LOCALAPPDATA%\Programs\Ollama
+  2. lib folder   -> copy from:  %LOCALAPPDATA%\Programs\Ollama
+  3. models       -> copy everything from:  %USERPROFILE%\.ollama\models
+                     into a folder on the USB named:  ollama\models
+
+FROM THIS KIT (copy to the top level of the USB)
+  - start.bat
+  - stop.bat
+  - QUICK-CARD.txt
+  - START-HERE.txt   (this file)
+
+THE USB TOP LEVEL SHOULD LOOK LIKE THIS
+  ollama.exe
+  lib\
+  ollama\
+      models\
+  start.bat
+  stop.bat
+  QUICK-CARD.txt
+  START-HERE.txt
+
+Tip: type %USERPROFILE%\.ollama\models into the File Explorer address bar.
+
+Mac and Linux: see docs/MAC_LINUX.md in the guide.
